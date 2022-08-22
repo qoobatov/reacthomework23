@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;800&family=Roboto:wght@300;500&display=swap");
+
+.cards-block {
+  display: inline-block;
+  margin-bottom: 32px;
+}
+.cards-block:not(:last-child) {
+  margin-left: 117px;
+}
+.cards-block:last-child {
+  margin-left: 117px;
+}
+
+.t-shirts-block {
+  width: 373px;
+  height: 373px;
+  background: #ffffff;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 16px;
+}
+.t-shirts {
+  width: 307px;
+  height: auto;
+}
+
+.description-block {
+  color: #ffffff;
+}
+
+.title {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 4px;
+}
+.description {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #ffffff;
+  opacity: 0.5;
+  margin: 0;
+}
+.cost {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #ffffff;
+}
+

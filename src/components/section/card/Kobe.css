@@ -1,0 +1,20 @@
+.regular-seasons-kobe {
+  width: 1201px;
+  height: 23px;
+  font-family: "Orbitron";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding-top: 24px;
+}
+
+.kobe-yellow {
+  color: #fcbf05;
+}
+
+.bryant-purple {
+  color: #6021db;
+}

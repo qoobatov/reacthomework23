@@ -1,0 +1,46 @@
+.the-nike {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 65px;
+  line-height: 82px;
+  text-transform: uppercase;
+  color: #77d131;
+  border-bottom: 3px solid #000;
+  padding: 10px 0px;
+}
+
+.unsplash {
+  width: 100%;
+  height: auto;
+}
+
+.training-club {
+  margin-bottom: 74px;
+}
+
+.btn-view {
+  margin: 0px;
+}
+.view-all {
+  color: #000;
+}
+
+.nike-club {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.workouts {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #000000;
+  opacity: 0.5;
+}

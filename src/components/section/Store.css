@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;800&family=Roboto:wght@300;500&display=swap");
+.white-page {
+  width: 1589px;
+  height: 1050px;
+}
+
+.txt-card-container {
+  margin: 0px 120px;
+  height: 400px;
+  margin-bottom: 30px;
+}
+
+.every-team {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #000;
+  padding-top: 60px;
+  margin-bottom: 24px;
+}
+
+.big-store {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 65px;
+  line-height: 82px;
+  text-transform: uppercase;
+  color: #000;
+  border-bottom: 3px solid #000;
+  border-top: 3px solid #000;
+  padding: 10px 0px;
+}
+
+.big-team {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 65px;
+  line-height: 82px;
+  text-transform: uppercase;
+  color: black;
+  border-bottom: 3px solid #000;
+  padding: 10px 0px;
+}
+
+.favorite-team {
+  width: 454px;
+  height: 46px;
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #000;
+  padding-top: 24px;
+}
+.btn-view-3 {
+  margin-left: 120px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #000;
+  cursor: pointer;
+  margin-bottom: 113px;
+}
+.view-all-3 {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.blue-one {
+  color: #0949ef;
+}
+.red-every {
+  color: #fb0223;
+}
+.east-west-block {
+  margin: 0px 120px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 104px;
+}
+.east-block {
+  width: 630px;
+}
+.west-block {
+  width: 630px;
+}
+
+.txt-east {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 41px;
+  text-transform: uppercase;
+  color: #000000;
+  border-bottom: 3px solid #0949ef;
+}
+
+.txt-west {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 41px;
+  text-transform: uppercase;
+  color: #000000;
+  border-bottom: 3px solid #fb0223;
+}
+.east-photos-block {
+  /* border: 1px solid #000; */
+  height: 250px;
+  align-items: center;
+  text-align: center;
+}
+
+.east-photos {
+  width: 80.27px;
+  height: 80.27px;
+  padding: 10px 20px;
+}

@@ -1,0 +1,78 @@
+.black-page {
+  width: 1589px;
+  height: 1050px;
+  background: #000000;
+  margin-top: 90px;
+}
+
+.text-card-container {
+  margin: 0px 120px;
+  height: 400px;
+  margin-bottom: 30px;
+}
+
+.jerseys-bestsellers {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding-top: 60px;
+  margin-bottom: 24px;
+}
+
+.big-bestseller {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 65px;
+  line-height: 82px;
+  text-transform: uppercase;
+  color: #fb0223;
+  border-bottom: 3px solid #ffffff;
+  border-top: 3px solid #ffffff;
+  padding: 10px 0px;
+}
+
+.big-collection {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 65px;
+  line-height: 82px;
+  text-transform: uppercase;
+  color: white;
+  border-bottom: 3px solid #ffffff;
+  padding: 10px 0px;
+}
+
+.regular-seasons {
+  width: 454px;
+  height: 46px;
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding-top: 24px;
+}
+.btn-view {
+  margin-left: 120px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 22px;
+  color: #ffffff;
+  cursor: pointer;
+  margin-bottom: 113px;
+}
+
+.view-all{
+  margin-right: 5px;
+  cursor: pointer;
+}
